@@ -45,3 +45,4 @@ This project focuses on analyzing pizza sales data to uncover key insights into 
 2. Explore the datasets and dashboard for insights.
 3. Use tools like Python, R, or Excel for further analysis or visualization.
 
+![pizza](https://github.com/user-attachments/assets/83574abd-8ab5-4a0f-9266-dcdefbc2d08a)
